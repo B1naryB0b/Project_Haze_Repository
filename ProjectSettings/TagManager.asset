@@ -3,14 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - SpawnPoint
-  - navPoint
-<<<<<<< HEAD
-  - DummyTarget
-  - Map
-=======
->>>>>>> 8bbe914ddc21e53bee2a6533570ba3165553db10
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -20,14 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-<<<<<<< HEAD
-  - Items
-  - Unstickable
-=======
   - 
   - 
->>>>>>> 8bbe914ddc21e53bee2a6533570ba3165553db10
+  - 
   - 
   - 
   - 
